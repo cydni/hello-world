@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+I'm Cydni and this is my first repository on GitHub. 
